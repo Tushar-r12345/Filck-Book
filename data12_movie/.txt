@@ -1,0 +1,1 @@
+********  Here, every user booking and the streams he/she rented or buy will get stored along with the proper date and time ( which will be automatically detected ) **********
